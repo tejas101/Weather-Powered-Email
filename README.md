@@ -1,5 +1,5 @@
 # Weather-Powered-Email
-Full stacked web application in LAMP stack, where it takes the sign-up forms from users and send
+Full stack web application in LAMP stack, where it takes the sign-up forms from users and send
 personalized emails based on the subscribers’ location and the current weather at that location.
 
 Steps to run the code on a local machine
