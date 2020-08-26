@@ -16,3 +16,5 @@ Steps to run the code on a local machine
 
 6) Access the subscription page on http://localhost/Weather and the email management dashboard on http://localhost/weather/login.php
 Username :tejas and password tejas 
+
+Developed : Jan 2019
